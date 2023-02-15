@@ -3,11 +3,9 @@ target
 tmp
 dependency-reduced-pom.xml
 .idea
-.vscode/*
 .classpath
 .project
 .settings
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -71,3 +69,7 @@ jmeter.log
 installer/*.log
 security-check/*.log
 saas-boost-install*.log*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
